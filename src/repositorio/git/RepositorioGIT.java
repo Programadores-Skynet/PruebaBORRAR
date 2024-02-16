@@ -16,6 +16,7 @@ public class RepositorioGIT {
         // TODO code application logic here
         System.out.print("Hola Como estas");
         System.out.print("Buen dia");
+        System.out.print("Estoy bien");
     }
     
 }
