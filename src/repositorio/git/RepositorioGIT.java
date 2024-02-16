@@ -18,7 +18,7 @@ public class RepositorioGIT {
         System.out.print("Buen dia");
         System.out.print("Estoy bien");
         System.out.print("Que bueno");
-        System.out.print("Que BIEN");
+        System.out.print("Que bien");
     }
     
 }
