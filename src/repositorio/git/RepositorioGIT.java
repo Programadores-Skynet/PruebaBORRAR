@@ -20,6 +20,7 @@ public class RepositorioGIT {
         System.out.print("Que bueno");
         System.out.print("Que bien");
          System.out.print("Tengo Hambre");
+         System.out.print("Entones coma");
     }
     
 }
